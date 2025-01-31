@@ -7,5 +7,5 @@ I would like to thank all the great scene groups who have inspired me with their
 - That's it!
 
 To compile the executable:
-pip install pyinstaller
-pyinstaller --onefile --noconsole --add-data "assets/cracktro.xm;assets" --add-data "assets/kr0n0s.png;assets" --add-data "assets/logo.png;assets" cracktro.py
+- pip install pyinstaller
+- pyinstaller --onefile --noconsole --add-data "assets/cracktro.xm;assets" --add-data "assets/kr0n0s.png;assets" --add-data "assets/logo.png;assets" cracktro.py
